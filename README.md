@@ -1,5 +1,5 @@
 # flutter_geolocation
-<<<<<<< HEAD
+
 model project for fetching location data
 =======
 
